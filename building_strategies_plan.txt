@@ -1,0 +1,27 @@
+** Building Strategies **
+
+
+APP SUMMARY: Education/ Development
+
+	* Age defined strategy development through learning based games for dyslexic students, starting with beginner readers
+	* Free to use (open source)
+	* Web & mobile responsive
+	* Multi-use groups/ user profiles: student (age defined), parent, instructor/educator
+	* Languages:
+		** HTML & CSS - styling
+		** JS - animation
+		** PHP & Laravel - back end
+		** MySQL - database management of user uploaded content, 
+
+
+Features & Considerations:
+* history of games played
+* scores (like grade or point based- level)
+* improvement
+* feedback
+* usage stats
+* inputs to allow user content
+* multi-sensory: color overlayed text, audio hints, graphics
+	* Name & object association with sound matching
+	* Rhyming & repetition
+	* Shape drawing - mouse controlled to help with hand dexterity
